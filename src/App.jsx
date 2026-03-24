@@ -4,7 +4,7 @@ import './App.css'
 import Countries from './components/Countries/Countries'
 
 const CountriesPromise = fetch("https://openapi.programming-hero.com/api/all")
-  .then((res) => res.json())
+  .then((res) => res.json());
   
 function App() {
   

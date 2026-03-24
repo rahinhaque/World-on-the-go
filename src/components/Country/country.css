@@ -5,3 +5,7 @@
  border-radius: 20px;  
  overflow: hidden;
 }
+
+.country-visited{
+ background-color: aquamarine;
+}
